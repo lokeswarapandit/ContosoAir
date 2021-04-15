@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ansible2527/ansible2527/_apis/build/status/lokeswarapandit.ContosoAir?branchName=master)](https://dev.azure.com/ansible2527/ansible2527/_build/latest?definitionId=1&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
