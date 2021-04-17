@@ -22,3 +22,7 @@ steps:
       includeRootFolder: false
   - task: PublishBuildArtifacts@1
     displayName: 'Publish Artifact: drop'
+    - task: DotNetCoreCLI@2
+      inputs:
+        command: 'build'
+        projects: '**/*.csproj'
